@@ -18,6 +18,7 @@ namespace InversaodeString
             Console.WriteLine("Palavra Correta: {0}", r);
             Console.WriteLine("Palavra Invertida: {0}", invertido);
             Console.ReadKey();
+            //By Athirson Passos
         }
     }
 }
